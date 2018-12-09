@@ -1,1 +1,1 @@
-# recurrent-relational-reasoning
+# recurrent-relational-networks
